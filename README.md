@@ -1,5 +1,4 @@
 # Welcome to the "GOWeather" Weather App
-![image](https://user-images.githubusercontent.com/61385848/149000872-bc1b9abc-18ff-4e6d-b35a-45e5aa33eef7.png)
 
 Hi this repository is one of my personal projects. This is a weather app and 
 I tried to make it as interesting as possible! 
